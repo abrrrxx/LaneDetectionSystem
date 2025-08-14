@@ -58,11 +58,11 @@ lane_detection
 
 📈 Future Improvements:
 
-📹 Extend support for real-time video streams
+-📹 Extend support for real-time video streams
 
-🛣 Detect curved lanes more accurately
+-🛣 Detect curved lanes more accurately
 
-🚗 Combine with vehicle detection for ADAS
+-🚗 Combine with vehicle detection for ADAS
 
 🏆 Author
 Your Name
