@@ -70,11 +70,11 @@ lane_detection
 
 🏆 Author
 
-Your Name
+Abhimanyu Sharma
 
 💼 Electronics & Communication Engineering Student
 
-📧 your.email@example.com
+📧 abhimanyu.sharma.2805@example.com
 
 🔗 LinkedIn | GitHub
 
