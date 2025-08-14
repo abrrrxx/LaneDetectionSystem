@@ -45,8 +45,8 @@ It is useful for autonomous driving research, road safety analysis, and computer
 ## 🚀 How to Run  
 1. **Clone the repository**
   ```bash 
-   git clone https://github.com/yourusername/Lane-Marking-Detection.git
-   cd Lane-Marking-Detection
+   git clone https://github.com/abrrrxx/LaneDetectionSystem.git
+   cd LaneDetectionSystem
 Open MATLAB and load the project folder
 ```
 Run the script in MATLAB:
