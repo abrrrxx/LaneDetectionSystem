@@ -45,12 +45,15 @@ It is useful for autonomous driving research, road safety analysis, and computer
    cd Lane-Marking-Detection
 Open MATLAB and load the project folder
 ```
-Run the script:
-
+Run the script in MATLAB:
+```matlab
 lane_detection
+
 📸 Output Example
 <p align="center"> <img src="output.png" width="700" alt="Lane Detection Example"> </p>
+```
 📈 Future Improvements
+
 📹 Extend support for real-time video streams
 
 🛣 Detect curved lanes more accurately
