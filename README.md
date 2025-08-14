@@ -31,9 +31,13 @@ It is useful for autonomous driving research, road safety analysis, and computer
 
 ## 📂 Project Structure  
 📁 Lane-Marking-Detection
+
  ├── lane_detection.m # Main MATLAB script
+ 
  ├── road.jpg # Input road image
+
  ├── output.png # Sample output with lanes marked
+ 
  ├── README.md # Project documentation
 
 ---
