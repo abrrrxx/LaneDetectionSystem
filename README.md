@@ -56,6 +56,8 @@ lane_detection
 📸 Output Example
 <p align="center"> <img src="output.png" width="700" alt="Lane Detection Example"> </p>
 
+---
+
 📈 Future Improvements:
 
 -📹 Extend support for real-time video streams
@@ -64,10 +66,12 @@ lane_detection
 
 -🚗 Combine with vehicle detection for ADAS
 
-
+---
 
 🏆 Author
+
 Your Name
+
 💼 Electronics & Communication Engineering Student
 
 📧 your.email@example.com
