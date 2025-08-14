@@ -76,7 +76,8 @@ Abhimanyu Sharma
 
 📧 abhimanyu.sharma.2805@example.com
 
-🔗 LinkedIn | GitHub
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/abhimanyu-sharma-8749b2312)
+| GitHub
 
 
 
